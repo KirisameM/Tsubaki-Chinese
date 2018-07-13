@@ -20,5 +20,5 @@ Lyrics here
 |15|<a href="https://www.xiami.com/song/bf01d1x2d336?spm=a1z1s.6659513.0.0.E1rZuk">ユメガタリ -Acoustic style-</a>|||||翻译入口关闭||
 |16|<a href="https://www.xiami.com/song/U7Jk4d2bc7b?spm=a1z1s.3521865.23309997.13.3ZNFxd">Sister,Friend,Lover</a>|米夏|米夏|✓|✓|muzukil||
 |17|<a href="https://www.xiami.com/song/xLxKYC15cf9?spm=a1z1s.3521865.23309997.1.TGEDmV">ちいさな手のひら (CBKN House Cover)</a>|米夏|米夏|✓|✓|审核中||
-|18|<a href="https://www.xiami.com/song/mQ87gS4ce4e?spm=a1z1s.3521865.23309997.1.EsGqFB">第六楽章 Dawn of East End</a>||润色1次|||||
+|18|<a href="https://www.xiami.com/song/mQ87gS4ce4e?spm=a1z1s.3521865.23309997.1.EsGqFB">第六楽章 Dawn of East End</a>|月|润色1次|用原来的||||
 |19|<a href="https://www.xiami.com/song/8FZLpGf359c?spm=a1z1s.3521865.23309997.1.v2fGbO">Proof of River</a>|||||||
